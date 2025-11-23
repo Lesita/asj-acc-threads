@@ -1,0 +1,9 @@
+On 23/11/2025 an attemp to sign in on the Threads web app with Instagram account/password combination was succeeded while a subsequent sign-in attempt on the Instagram website still got an account blocked notice.
+
+An initial guess was because of staff working on restoration of my accounts, while the separation of .Instagram and Threads made by Meta allowed such partial service restoration to happen. 
+
+Previously followed by a notice of permanent account block on Instagram attempts to sign in on the Threads with Instagram credentials failed with no notice but was redirected to the Feed page of the app while the Log in button still appeared.
+
+-- Li Ao
+
+SHORT NOTICE ONLY, MAY FI ALISE IT IN THE FUTURE
