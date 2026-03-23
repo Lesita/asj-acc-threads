@@ -1,0 +1,8 @@
+NOTICE CONCERNING THE DISCONTINUATION OF THE GIT REPOSUTORY "audit-journal-asjthreads"
+
+1. A conclusion is reached that for future changes including posting contents and other profile changes, on any of social media accounts of Li Ao for which the updateness of such properties reflect an equivalent change of a Mastodon-compatible user profile, which includes Meta's Threads accounts, will be recorded in a more specialised Git repository designed specifically for serving that purposes.
+
+2. Therefore, as there is no fruitful outcome to documenting other account-related operations of Threads into an isolated Git repository, the concerned Git repositories, will now discontinue.
+
+
+-- Li Ao, in Petaling District, Selangor, Malaysia
